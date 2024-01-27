@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pixa_rw" type="id" />
+    <item name="nextBtn" type="id" />
+    <item name="searchBtn" type="id" />
+    <item name="searchEd" type="id" />
+</resources>
